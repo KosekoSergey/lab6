@@ -1,0 +1,13 @@
+C:\Users\zalman\source\repos\lab6\Programm\bin\Debug\netcoreapp3.1\Programm.exe
+C:\Users\zalman\source\repos\lab6\Programm\bin\Debug\netcoreapp3.1\Programm.deps.json
+C:\Users\zalman\source\repos\lab6\Programm\bin\Debug\netcoreapp3.1\Programm.runtimeconfig.json
+C:\Users\zalman\source\repos\lab6\Programm\bin\Debug\netcoreapp3.1\Programm.runtimeconfig.dev.json
+C:\Users\zalman\source\repos\lab6\Programm\bin\Debug\netcoreapp3.1\Programm.dll
+C:\Users\zalman\source\repos\lab6\Programm\bin\Debug\netcoreapp3.1\Programm.pdb
+C:\Users\zalman\source\repos\lab6\Programm\obj\Debug\netcoreapp3.1\Programm.csproj.AssemblyReference.cache
+C:\Users\zalman\source\repos\lab6\Programm\obj\Debug\netcoreapp3.1\Programm.AssemblyInfoInputs.cache
+C:\Users\zalman\source\repos\lab6\Programm\obj\Debug\netcoreapp3.1\Programm.AssemblyInfo.cs
+C:\Users\zalman\source\repos\lab6\Programm\obj\Debug\netcoreapp3.1\Programm.csproj.CoreCompileInputs.cache
+C:\Users\zalman\source\repos\lab6\Programm\obj\Debug\netcoreapp3.1\Programm.dll
+C:\Users\zalman\source\repos\lab6\Programm\obj\Debug\netcoreapp3.1\Programm.pdb
+C:\Users\zalman\source\repos\lab6\Programm\obj\Debug\netcoreapp3.1\Programm.genruntimeconfig.cache

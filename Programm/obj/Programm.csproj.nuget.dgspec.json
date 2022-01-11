@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zalman\\Source\\Repos\\lab6\\Programm\\Programm.csproj": {}
+    "C:\\Users\\zalman\\source\\repos\\lab6\\Programm\\Programm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zalman\\Source\\Repos\\lab6\\Programm\\Programm.csproj": {
+    "C:\\Users\\zalman\\source\\repos\\lab6\\Programm\\Programm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zalman\\Source\\Repos\\lab6\\Programm\\Programm.csproj",
+        "projectUniqueName": "C:\\Users\\zalman\\source\\repos\\lab6\\Programm\\Programm.csproj",
         "projectName": "Programm",
-        "projectPath": "C:\\Users\\zalman\\Source\\Repos\\lab6\\Programm\\Programm.csproj",
+        "projectPath": "C:\\Users\\zalman\\source\\repos\\lab6\\Programm\\Programm.csproj",
         "packagesPath": "C:\\Users\\zalman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zalman\\Source\\Repos\\lab6\\Programm\\obj\\",
+        "outputPath": "C:\\Users\\zalman\\source\\repos\\lab6\\Programm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

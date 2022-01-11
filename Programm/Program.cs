@@ -6,7 +6,9 @@ namespace Programm
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Videocard vc = new Videocard();
+            vc.Input();
+            if (vc.Check() == 1) vc.Print();
         }
     }
 }
